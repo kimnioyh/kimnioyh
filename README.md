@@ -6,7 +6,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kimnioyh&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kimnioyh&theme=github-compact&custom_title=Git%20Hub%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
