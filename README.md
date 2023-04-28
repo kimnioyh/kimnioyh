@@ -68,13 +68,6 @@
   <div align='left'>
   들이 사진 올리기
   </div>
-  <hr>
-
-  <img src="https://user-images.githubusercontent.com/122436515/230290863-5d80e69b-3e1b-4e7e-8430-a12416b8cc6f.jpg"  width="200" height="200"/> <br>
-
-
-  <br>  
-  <img src="https://user-images.githubusercontent.com/122436515/230289805-a82c992a-ad1e-4fe5-a389-ddfc16853e9c.jpg"  width="200" height="200"/> <br>
 
 
  
