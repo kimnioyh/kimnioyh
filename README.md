@@ -9,10 +9,11 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kimnioyh&theme=github-compact&custom_title=Github%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnioyh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=400&size=29&pause=1000&color=000000&width=435&lines=👀헤에+에에+에에에+에에??)](https://git.io/typing-svg)
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=29&pause=1000&color=000000&width=435&lines=👀헤에+에에+에에에+에에??)](https://git.io/typing-svg)
 
 
 
