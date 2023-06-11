@@ -2,24 +2,11 @@
 <div align="left">
 
 
-# 📈Git status
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=kimnioyh&theme=github-compact&custom_title=Github%20Contributions)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnioyh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=400&size=29&pause=1000&color=000000&width=435&lines=👀헤에+에에+에에에+에에??)](https://git.io/typing-svg)
-
-
-
-
-
-
-
 <hr>
 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnioyh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnioyh)](https://solved.ac/kimnioyh/)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimnioyh&theme=warm)
 <br>
