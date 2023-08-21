@@ -50,15 +50,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimnioyh@gmail.com)](mailto:kimnioyh@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:bright_bat@naver.com)](mailto:bright_bat@naver.com)
 
-
+<br>
+<br>
   
 
-# 🐱 Meow
+# 🐱 Deul
 </div>
 
-  <div align='left'>
-  들이 사진 올리기
-  </div>
+![front](https://github.com/kimnioyh/kimnioyh/assets/122436765/5a74e379-5b39-4f79-b1e9-a8c8788667da)
+![ear](https://github.com/kimnioyh/kimnioyh/assets/122436765/f9103b3d-8d90-408c-9be5-0214d58efe9e)
+![roar](https://github.com/kimnioyh/kimnioyh/assets/122436765/d438bc34-1a99-4075-8b6b-811f8c506fa4)
+
 
 
  
