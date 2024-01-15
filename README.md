@@ -7,12 +7,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimnioyh&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnioyh)](https://solved.ac/kimnioyh/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimnioyh&theme=warm)
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimnioyhjava)](https://solved.ac/kimnioyhjava/)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=kimnioyhjava&theme=warm)
-<br>
+
 
 
 # 🎯Skills
@@ -53,15 +48,6 @@
 <br>
 <br>
   
-
-# 🐱 Deul
-</div>
-
-![front](https://github.com/kimnioyh/kimnioyh/assets/122436765/5a74e379-5b39-4f79-b1e9-a8c8788667da)
-![ear](https://github.com/kimnioyh/kimnioyh/assets/122436765/f9103b3d-8d90-408c-9be5-0214d58efe9e)
-![roar](https://github.com/kimnioyh/kimnioyh/assets/122436765/d438bc34-1a99-4075-8b6b-811f8c506fa4)
-
-
 
  
 
